@@ -82,3 +82,18 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuj0809&include_all_commits=true&count_private=true&show_icons=true" />
   </a>
 </p>
+
+#
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/anuj0809/anuj0809/blob/main/assets/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj0809&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/anuj0809/anuj0809/blob/main/assets/right.png">
+  </a>
+</p>
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuj0809&column=7&margin-w=15&margin-h=15)](https://github.com/anuj0809)
+
+#
