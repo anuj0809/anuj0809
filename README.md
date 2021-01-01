@@ -19,3 +19,7 @@
     <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/github.png" width="30" height="30" hspace="20">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuj0809" alt="Anuj0809" />
+</p>
