@@ -37,3 +37,9 @@
   I am Anuj Goyal, a 2nd year undergraduate at VIT, Bhopal, majoring in <strong>Computer Science</strong>. I am a full-stack <strong>Android</strong> app developer with proficiency in <strong>Node.js</strong>. I have a strong knowledge of <strong>Data Structures</strong>. Being a quick learner I have always been passionate to learn more and have had the zeal for knowledge.
   </code>
 </p>
+
+<p align="center">
+  <a href="https://github.com/anuj0809">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/code.gif" height="250">
+  </a>
+</p>
