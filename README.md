@@ -75,14 +75,6 @@
 </p>
 
 <br>
-<br>
-
-<p align="center">
-  <a href="https://github.com/anuj0809">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuj0809&include_all_commits=true&count_private=true&show_icons=true" />
-  </a>
-</p>
-
 #
 
 <p align="center">
