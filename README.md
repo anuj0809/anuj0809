@@ -23,3 +23,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuj0809" alt="Anuj0809" />
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/anuj0809">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/hello.gif" height="50">
+  </a>
+</p>
