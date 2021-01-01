@@ -89,3 +89,49 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=anuj0809&column=7&margin-w=15&margin-h=15)](https://github.com/anuj0809)
 
 #
+
+
+
+
+#
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats</strong>:
+</summary>
+<br>
+  
+<p align="center">
+<a href="https://github.com/anuj0809">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj0809&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/anuj0809">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj0809&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</a>
+</p>
+</details>
+<br>
+
+#
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>WakaTime Stats</strong>:
+</summary>
+<p align="center">
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@anuj0809/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@anuj0809/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  </a>
+</p>
+</details>
+
+<a target="_blank">
+  <img align="right" height="350px" width="550px" src="https://wakatime.com/share/@anuj0809/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+</a>
+<br>
+<br>
