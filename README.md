@@ -10,3 +10,12 @@
 <a href="https://stackoverflow.com">
     <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/stackoverflow.png" width="30" height="30" hspace="20">
   </a>
+
+<a href="https://www.instagram.com">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/instagram.png" width="30" height="30" hspace="20">
+  </a>
+
+<a href="https://github.com/anuj0809">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/github.png" width="30" height="30" hspace="20">
+  </a>
+</p>
