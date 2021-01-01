@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+<a href="https://www.linkedin.com">
+<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/linkedin.png" width="30" height="30" hspace="20">
+ </a>
+  
+<a href="mailto:anuj.goyal0809@gmail.com">
+<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/mail.png" width="30" height="30" hspace="20">
+</a>
 
-<!--
-**anuj0809/anuj0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://stackoverflow.com">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/stackoverflow.png" width="30" height="30" hspace="20">
+  </a>
