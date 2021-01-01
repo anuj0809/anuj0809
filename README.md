@@ -43,3 +43,10 @@
     <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/code.gif" height="250">
   </a>
 </p>
+
+<h3 align="center">
+  <code>
+    Tools and languages used
+  </code>
+</h3>
+
