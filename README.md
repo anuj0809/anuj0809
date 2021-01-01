@@ -50,3 +50,28 @@
   </code>
 </h3>
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/nodejs.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/nginx.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/docker.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/google-cloud.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/android.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/typescript.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/javascript.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/python.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/cpp.png" height=40 hspace=10>
+</p>
+
+<p align="center">
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/redis.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/mongodb.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/sql.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/firebase.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/sketch.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/git.png" height=40 hspace=10>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/github2.png" height=40 hspace=10>
+</p>
+
+<br>
