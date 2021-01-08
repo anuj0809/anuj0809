@@ -38,11 +38,7 @@
   </code>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuj0809">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/code.gif" height="250">
-  </a>
-</p>
+<p align= "center"><img src="https://github.com/anuj0809/anuj0809/blob/main/assets/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 
 <h3 align="center">
   <code>
