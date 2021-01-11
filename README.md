@@ -26,10 +26,9 @@
 
 <br>
 
+
 <p align="center">
-  <a href="https://github.com/anuj0809">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/hello.gif" height="50">
-  </a>
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/welcome.png" height="200" />
 </p>
 
 <p align="center">
