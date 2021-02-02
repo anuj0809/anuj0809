@@ -35,7 +35,7 @@
   <code>
   🙍🏽‍♂️I am Anuj Goyal, a 2nd year undergraduate, majoring in <strong>Computer Science</strong>. I am a full-stack <strong>Android</strong> app developer with proficiency in <strong>Node.js</strong>. I have a strong knowledge of <strong>Data Structures</strong>. Being a quick learner I have always been passionate to learn more and have had the zeal for knowledge.👨🏽‍💻 Enthusiastic team player, a fast learner with <strong> creative programming solving skills</strong>, good coding and <strong> communication skills</strong>.  👨🏽‍💼. Beside's programming, I enjoy eating food and traveling.
    
-   <img align='right' src='https://github.com/anuj0809/anuj0809/blob/main/1.png' width='160"'>
+   <img align='center' src='https://github.com/anuj0809/anuj0809/blob/main/1.png' width='250"'>
   </code>
 </p>
 
