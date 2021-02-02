@@ -37,7 +37,6 @@
    
   </code>
 </p>
-<p align= "center"><img src="https://github.com/anuj0809/anuj0809/blob/main/assets/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align= "center"><img src="https://github.com/anuj0809/anuj0809/blob/main/1.png" width="170"></p>
 <h3 align="center">
   <code>
