@@ -39,7 +39,7 @@
 </p>
 
 <p align= "center"><img src="https://github.com/anuj0809/anuj0809/blob/main/assets/animation_500_ki5uuop9.gif" width="250" height="250"></p>
-<img align='center' src='https://github.com/anuj0809/anuj0809/blob/main/1.png' width='250"'>
+<img align='center' src='https://github.com/anuj0809/anuj0809/blob/main/1.png' width="250" height="250">
 <h3 align="center">
   <code>
     Tools and languages used
