@@ -37,6 +37,7 @@
    
   </code>
 <p align = "center"><img src="https://github.com/anuj0809/anuj0809/blob/main/code.gif"/></p>
+  <h3 align="center">
   <code>
     Tools and languages used
   </code>
