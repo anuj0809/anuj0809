@@ -80,14 +80,6 @@
 </p>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuj0809&column=7&margin-w=15&margin-h=15)](https://github.com/anuj0809)
-
-#
-
-
-
-
-#
 
 <details open="">
 <summary>
