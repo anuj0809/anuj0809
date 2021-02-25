@@ -1,4 +1,4 @@
-![](https://github.com/anuj0809/anuj0809/blob/main/header.png)
+![](https://github.com/anuj0809/anuj0809/blob/main/Pink%20and%20Red%20Motivation%20and%20Inspirational%20LinkedIn%20Banner.png)
 
 <p align="center">
 <a href="https://www.linkedin.com">
@@ -99,4 +99,4 @@
 
 ---
 
-![](https://github.com/anuj0809/anuj0809/blob/main/footer.png)
+![](https://github.com/anuj0809/anuj0809/blob/main/location-india-banner-1920x450.jpg)
