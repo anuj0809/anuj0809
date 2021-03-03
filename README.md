@@ -80,6 +80,11 @@
 </p>
 <br/>
 
+</br></br>
+
+![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=xcode)
+
+</br></br>
 
 <details open="">
 <summary>
