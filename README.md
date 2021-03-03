@@ -80,19 +80,15 @@
 </p>
 <br/>
 
-</br></br>
-
-![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=xcode)
-
-</br></br>
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>Github Stats</strong>:
 </summary>
 <br>
-  
+
+![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=xcode)
+
 <p align="center">
 <a href="https://github.com/anuj0809">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj0809&show_icons=true&hide_border=true&title_color=014E94&amp&icon_color=014E94&amp&text_color=014E94&amp&bg_color=ffffff&count_private=true&include_all_commits=true"/>
