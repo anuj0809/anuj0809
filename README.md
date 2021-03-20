@@ -88,12 +88,6 @@
 <br>
 
 ![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=xcode)
-
-<p align="center">
-<a href="https://github.com/anuj0809">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj0809&show_icons=true&hide_border=true&title_color=014E94&amp&icon_color=014E94&amp&text_color=014E94&amp&bg_color=ffffff&count_private=true&include_all_commits=true"/>
-</p>
-</details>
 <br>
 
 ![](https://github.com/anuj0809/anuj0809/blob/main/bottom_bar.png)
