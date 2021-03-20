@@ -90,5 +90,5 @@
 ![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=xcode)
 
 <br>
------
+
 ![](https://github.com/anuj0809/anuj0809/blob/main/bottom_bar.png)
