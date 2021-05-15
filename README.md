@@ -90,7 +90,5 @@
 ![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=xcode)
 
 <br>
-<img height="100" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
-
 
 ![](https://github.com/anuj0809/anuj0809/blob/main/bottom_bar.png)
