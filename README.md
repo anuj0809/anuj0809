@@ -2,23 +2,19 @@
 
 <p align="center">
 <a href="https://www.linkedin.com">
-<img src="https://github.com/anuj0809/anuj0809/blob/main/link.png" width="30" height="30" hspace="20">
+<img src="hhttps://github.com/anuj0809/anuj0809/blob/main/assets/icons8-linkedin-circled.gif" width="30" height="30" hspace="20">
  </a>
   
 <a href="mailto:anuj.goyal0809@gmail.com">
-<img src="https://github.com/anuj0809/anuj0809/blob/main/mail.png" width="30" height="30" hspace="20">
+<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/icons8-messaging-64.png" width="30" height="30" hspace="20">
 </a>
-
-<a href="https://stackoverflow.com">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/stack.png" width="30" height="30" hspace="20">
-  </a>
 
 <a href="https://www.instagram.com">
     <img src="https://github.com/anuj0809/anuj0809/blob/main/insta.png" width="30" height="30" hspace="20">
   </a>
 
 <a href="https://github.com/anuj0809">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/git.jpg" width="30" height="30" hspace="20">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/icons8-github-48.png" width="30" height="30" hspace="20">
   </a>
 </p>
 
