@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.instagram.com">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/insta.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" width="30" height="30" hspace="20">
   </a>
 
 <a href="https://github.com/anuj0809">
