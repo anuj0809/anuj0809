@@ -6,7 +6,7 @@
  </a>
   
 <a href="mailto:anuj.goyal0809@gmail.com">
-<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/f7dcb2817ad147c8b1d700ceb1d8cb28.gif" width="50" height="50" hspace="20">
+<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/CornyVariableIcterinewarbler-max-1mb.gif" width="50" height="50" hspace="20">
 </a>
 
 <a href="https://www.instagram.com">
