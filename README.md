@@ -2,19 +2,19 @@
 
 <p align="center">
 <a href="https://www.linkedin.com">
-<img src="hhttps://github.com/anuj0809/anuj0809/blob/main/assets/icons8-linkedin-circled.gif" width="30" height="30" hspace="20">
+<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/LINKEDIN-LOGO-2-Animated-Pulsating.gif" width="30" height="30" hspace="20">
  </a>
   
 <a href="mailto:anuj.goyal0809@gmail.com">
-<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/icons8-messaging-64.png" width="30" height="30" hspace="20">
+<img src="https://github.com/anuj0809/anuj0809/blob/main/assets/f7dcb2817ad147c8b1d700ceb1d8cb28.gif" width="30" height="30" hspace="20">
 </a>
 
 <a href="https://www.instagram.com">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" width="30" height="30" hspace="20">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/insta-gif.gif" width="30" height="30" hspace="20">
   </a>
 
 <a href="https://github.com/anuj0809">
-    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/icons8-github-48.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/github.gif" width="30" height="30" hspace="20">
   </a>
 </p>
 
