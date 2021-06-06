@@ -83,7 +83,7 @@
 </summary>
 <br>
 
-![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=react-dark)]
+![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuj0809&theme=react-dark)
 
 <br>
 
