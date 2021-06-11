@@ -1,4 +1,4 @@
-![](https://github.com/anuj0809/anuj0809/blob/main/Pink%20and%20Red%20Motivation%20and%20Inspirational%20LinkedIn%20Banner.png)
+![](https://github.com/anuj0809/anuj0809/blob/main/assets/Hello%2C.png)
 
 <p align="center">
 <a href="https://www.linkedin.com">
