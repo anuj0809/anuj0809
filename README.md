@@ -24,11 +24,9 @@
 
 <br>
 
-
-<h1 align="center" style="background:red"> 
-  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/hi.gif" alt="hello-gif" height=310px width=335px style="max-width=40px"> 
-</h1>
-
+<p align="center">
+  <img src="https://github.com/anuj0809/anuj0809/blob/main/assets/hi.gif" height="200" />
+</p>
 
 <p align="center">
   <code>
