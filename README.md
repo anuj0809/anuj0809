@@ -1,4 +1,7 @@
 ![](https://github.com/anuj0809/anuj0809/blob/main/Header/1.png)
+<a href="https://git.io/typing-svg">
+  <img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=FF79C6&size=40&width=550&height=60&lines=Budding+Developer%2C+Designer;Weclome+to+my+profile+!!" />
+</a>
 
 <!--
 **anuj0809/anuj0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
