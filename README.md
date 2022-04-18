@@ -6,8 +6,8 @@
 
 
 
-<a href="https://fabianferno.com/"><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="left" height="430" /></a>
-<p align="right">
+<a href="https://fabianferno.com/"><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="center" height="300" /></a>
+<p align="center">
   <code>
   🙍🏽‍♂️I am Anuj Goyal, a 3rd year undergraduate, majoring in <strong>Computer Science</strong>. I am a full-stack <strong>Android</strong> app developer with proficiency in <strong>Node.js</strong>. I have a strong knowledge of <strong>Data Structures</strong>. Being a quick learner I have always been passionate to learn more and have had the zeal for knowledge.👨🏽‍💻 Enthusiastic team player, a fast learner with <strong> creative programming solving skills</strong>, good coding and <strong> communication skills</strong>.  👨🏽‍💼. Beside's programming, I enjoy eating food and traveling.
    
