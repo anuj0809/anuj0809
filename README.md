@@ -12,4 +12,4 @@
 
   ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,nginx,Spring,AWSvscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,nginx,aws,gcp vscode&theme=light)
