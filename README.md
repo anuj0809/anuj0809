@@ -4,8 +4,6 @@
 </a>
 
 
-
-
 <p align = "center"><img src="https://github.com/anuj0809/anuj0809/blob/main/Header/giphy.gif" height=200></p>
 <p align="center">
   <code>
