@@ -14,4 +14,12 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,react,mongodb,mysql,docker,kubernetes,md,git,bash,nginx,aws,gcp,vscode,angular,bootstrap,deno,django,express,firebase,flask,flutter,gatsby,go,kotlin,julia,nestjs,nextjs,pytorch,redis,spring,supabase,tensorflow,unreal,unity&theme=light)
 
-  <h1 align="center">Connect with me 🔗</h1>
+ <h1 align="center">Connect with me 🔗</h1>
+<p align="center">
+  <a href="https://www.linkedin.com"><img alt="LinkedIn"src="https://img.shields.io/badge/LinkedIn-9d5a8d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-c57aa3?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone="><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-e09bb7?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:anuj.goyal0809@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-F2BDD9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-f8ced0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.discord.com" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-f8ced0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
