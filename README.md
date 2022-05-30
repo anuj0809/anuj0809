@@ -13,6 +13,7 @@
   ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,react,mongodb,mysql,docker,kubernetes,md,git,bash,nginx,aws,gcp,vscode,angular,bootstrap,deno,django,express,firebase,flask,flutter,gatsby,go,kotlin,julia,nestjs,nextjs,pytorch,redis,spring,supabase,tensorflow,unreal,unity&theme=light)
+<a href="https://github.com/anuj0809?tab=projects" target=_blank><button type="button" class="btn btn-primary btn-lg Projects">See my Projects</button></a>
 
  <h1 align="center">Connect with me 🔗</h1>
 <p align="center">
