@@ -7,13 +7,15 @@
 <p align="center">
   <code>
   🙍🏽‍♂️I am Anuj Goyal, a 3rd year undergraduate, majoring in <strong>Computer Science</strong>. I am a full-stack <strong>Android</strong> and <strong>Web</strong>  developer with proficiency in <strong>Node.js</strong>. I have a strong knowledge of <strong>Data Structures</strong>. Being a quick learner I have always been passionate to learn more and have had the zeal for knowledge.👨🏽‍💻 Enthusiastic team player, a fast learner with <strong> creative programming solving skills</strong>, good coding and <strong> communication skills</strong>.  👨🏽‍💼. Beside's programming, I enjoy eating food and traveling.
+My <strong>Projects</strong> too, do check it out! :wink:
+
+[<img src="https://img.shields.io/badge/Project-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://github.com/anuj0809?tab=projects)
    
   </code>
 
   ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,react,mongodb,mysql,docker,kubernetes,md,git,bash,nginx,aws,gcp,vscode,angular,bootstrap,deno,django,express,firebase,flask,flutter,gatsby,go,kotlin,julia,nestjs,nextjs,pytorch,redis,spring,supabase,tensorflow,unreal,unity&theme=light)
-<a href="https://github.com/anuj0809?tab=projects" target=_blank><button type="button" class="btn btn-primary btn-lg Projects">See my Projects</button></a>
 
  <h1 align="center">Connect with me 🔗</h1>
 <p align="center">
