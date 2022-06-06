@@ -1,4 +1,4 @@
-![](https://github.com/anuj0809/anuj0809/blob/main/Header/undraw_hey_email_liaa.png)
+<img src="https://github.com/anuj0809/anuj0809/blob/main/Header/undraw_hey_email_liaa.png" width="500" height="600">
 <a href="https://git.io/typing-svg">
   <img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=FF79C6&size=40&width=550&height=60&lines=Budding+Developer%2C+Designer;Weclome+to+my+profile+!!" />
 </a>
