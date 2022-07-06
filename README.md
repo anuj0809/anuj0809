@@ -14,19 +14,20 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,react,mongodb,mysql,docker,kubernetes,md,git,bash,nginx,aws,gcp,vscode,angular,bootstrap,deno,django,express,firebase,flask,flutter,gatsby,go,kotlin,julia,nestjs,nextjs,pytorch,redis,spring,supabase,tensorflow,unreal,unity&theme=light)
 
- <h1 align="center">Connect with me 🔗</h1>
- 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/anuj0809) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) [<img src="https://img.shields.io/badge/Projects-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://github.com/anuj0809?tab=projects)
+## 🌐 Connect With Me :
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anujgoyal" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujgoyal" height="30" width="40" /></a>
+<a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anujgoyal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujgoyal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujgoyal" height="30" width="40" /></a>
+</p>
 
-
-[<img alt="portfolio link" src="https://img.shields.io/badge/Portfolio-http://anuj0809.github.io/-success" />](http://anuj0809.github.io)
-
-
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-lightgrey" />]()
-
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-anuj.goyal0809@gmail.com-blue" />](mailto:anuj.goyal0809@gmail.com)
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/anuj0809?label=Follow%20Me&style=social" />
+<div align="center">
+  <img src='https://komarev.com/ghpvc/?username=your-github-anuj0809&color=blue&style=for-the-badge&label=👀 Profile Visits' />
+  <img src='https://img.shields.io/github/followers/anuj0809?label=Followers&logo=github&style=for-the-badge&color=green' />
+  <img src='https://img.shields.io/github/stars/anuj0809?label=%E2%AD%90%20GitHub%20stars&style=for-the-badge&color=pink' />
+</div>
 
 
 
